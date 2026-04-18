@@ -1,4 +1,4 @@
-# PortfolioPulse – AWS Static Website CI/CD
+# AWS Static Website CI/CD
 A production-style cloud project where I built and deployed my personal portfolio website using AWS Static Website Hosting and automated the deployment workflow with CI/CD.
 This project demonstrates hands-on experience with AWS core services, deployment automation, monitoring, and real-world DevOps fundamentals.
 
